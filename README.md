@@ -37,3 +37,7 @@ My name is David Salomón and I am a noob web developer from El Salvador. I do a
 </p>
 
 ---
+
+### Hablas español?
+
+<p>También cuento con mi emprendimiento en <a href='https://buho.academy'>Buho Academy</a> donde brindo cursos de inglés, desarrollo web, finanzas y productividad.</p>
