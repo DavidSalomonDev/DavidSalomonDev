@@ -7,7 +7,7 @@
 My name is David Salomón and I am a noob web developer from El Salvador. I do a lot of things, and I'm still learning web development, but I'm commited to achieve my goal of being a Senior Frontend Developer, follow me on my journey. 🤞
 
 ---
-
+<a href="https://app.daily.dev/davidsalomon"><img src="https://api.daily.dev/devcards/323ab70582944949945729623b499da8.png?r=ul1" width="400" alt="David Martínez's Dev Card"/></a>
 # 💫About Me :
 🔭 I’m currently working at Telus International as an Applications Support Analyst, providing support to developers using the Google Workspace API, Apps Script and assisting developers in Stack Overflow.
 👯 I’m looking to collaborate in an open source project as a Frontend developer or a small startup. 
